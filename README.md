@@ -10,7 +10,7 @@ Skills: REACT / JS / HTML / CSS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zwebd\&layout=compact\&theme=dark\&langs_count=8)](https://github.com/zwebd/github-readme-stats#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zwebd\&layout=compact\&theme=default\&langs_count=8)](https://github.com/zwebd/github-readme-stats#gh-light-mode-only)
 
-[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=zwebd\&show_icons=true\&theme=vue_dark\&rank_icon=github\&title_color=273849)](https://github.com/zwebd/github-readme-stats#gh-dark-mode-only)
+[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=zwebd\&show_icons=true\&theme=vue-dark\&rank_icon=github\&title_color=273849)](https://github.com/zwebd/github-readme-stats#gh-dark-mode-only)
 [![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=zwebd\&show_icons=true\&theme=vue\&rank_icon=github\&title_color=273849)](https://github.com/zwebd/github-readme-stats#gh-light-mode-only)
 
 
