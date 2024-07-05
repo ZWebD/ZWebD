@@ -5,7 +5,7 @@ I love building applications, focusing mainly on React and related technologies.
 Skills: REACT / JS / HTML / CSS
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg/_/white' alt='github' height='40'>](https://github.com/zwebd)  
+[<img src='https://cdn.simpleicons.org/github/_/white' alt='github' height='40'>](https://github.com/zwebd)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg/_/white' alt='linkedin' height='40'>](https://www.linkedin.com/in/zoltan-szabo-dev/)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/icloud.svg/_/white' alt='website' height='40'>](https://www.zoltandev.com)  
 
