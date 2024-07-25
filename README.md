@@ -1,5 +1,5 @@
 # Hi there 👋, my name is Zoltan
-## I am a self-taught Front-end Engineer
+## I am a self-motivated Front End Developer
 I love building applications, focusing mainly on React and related technologies.
 
 Skills: REACT / JS / HTML / CSS
